@@ -18,4 +18,4 @@ Python code for plotting acceleration graphs depending on the number of processe
 
 # Enviroment
 
-C++
+C++ (MPI library)
