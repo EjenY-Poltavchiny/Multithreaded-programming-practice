@@ -1,6 +1,6 @@
 # One-dimensional homogeneous heat equation
 
-Solving a one-dimensional homogeneous heat equation by using a second-order approximation scheme. Parallel solution of the difference equation. Comparison of the results of parallel and sequential work.
+Solving a one-dimensional homogeneous heat equation $$\frac{\partial u}{\partial t} = k\frac{\partial^2 u}{\partial x^2}$$ by using a second-order approximation scheme. Parallel solution of the difference equation. Comparison of the results of parallel and sequential work.
 
 # Files
 
