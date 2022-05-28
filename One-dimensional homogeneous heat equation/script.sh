@@ -1,5 +1,5 @@
 1 #!/bin/bash
-2 mpiCC second.cpp
+2 mpiCC main.cpp
 3 rm for_graph.txt
 4 for nodes in 2000 10000 50000
 5 do
