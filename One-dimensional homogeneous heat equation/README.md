@@ -16,6 +16,10 @@ Bash script for repeatedly running the program for 1-8 processes, for N = 2000, 
 
 Python code for plotting acceleration graphs depending on the number of processes for different N.
 
+# Author
+
+Poltavtsev Evgeniy
+
 # Enviroment
 
 C++ (MPI library)
