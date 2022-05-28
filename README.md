@@ -1,4 +1,4 @@
-# Multithreaded-programming practice
+# Multithreaded programming practice
 Tasks of the multithreaded programming course
 
 * [Definite integral](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/tree/main/Definite%20integral)
