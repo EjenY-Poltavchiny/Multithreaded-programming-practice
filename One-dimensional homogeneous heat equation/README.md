@@ -16,3 +16,6 @@ Bash script for repeatedly running the program for 1-8 processes, at N = 2000, 1
 
 Python code for plotting acceleration graphs depending on the number of processes for different N.
 
+# Enviroment
+
+C++
