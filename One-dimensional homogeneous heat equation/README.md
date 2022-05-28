@@ -10,7 +10,7 @@ The solution of the problem is presented, the program is launched through the co
 
 * [script.sh](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/One-dimensional%20homogeneous%20heat%20equation/script.sh)
 
-Bash script for repeatedly running the program for 1-8 processes, at N = 2000, 10000, 50000.
+Bash script for repeatedly running the program for 1-8 processes, for N = 2000, 10000, 50000.
 
 * [Graphs.ipynb](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/One-dimensional%20homogeneous%20heat%20equation/Graphs.ipynb)
 
