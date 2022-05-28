@@ -1,6 +1,6 @@
 # One-dimensional homogeneous heat equation
 
-Solving a one-dimensional homogeneous heat equation: $$\Large \displaystyle \frac{\partial u}{\partial t} = k\frac{\partial^2 u}{\partial x^2}$$ by using a second-order approximation scheme: $$\Large \displaystyle \frac {u_i^{n+1} - u_i^n}{\tau} = k\frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{h^2}$$ Parallel solution of the difference equation. Comparison of the results of parallel and sequential work.
+Solving a one-dimensional homogeneous heat equation: $$\Large \displaystyle \frac{\partial u}{\partial t} = k\frac{\partial^2 u}{\partial x^2}$$ by using a second-order approximation scheme: $$\Large \displaystyle \frac {u_i^{n+1} - u_i^n}{\tau} = k\frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{h^2}$$ Get parallel and sequential solution of the difference equation. Compare results of parallel and sequential work.
 
 # Files
 
