@@ -38,4 +38,4 @@ Python code for plotting acceleration graphs depending on the number of processe
 
 Poltavtsev Evgeniy 
 
-> I will be glad to have a star if it was useful :sunglasses:
+> I will be glad to have a star if it was useful :wink:
