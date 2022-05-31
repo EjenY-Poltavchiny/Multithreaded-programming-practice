@@ -8,9 +8,7 @@
 
 # Files
 
-* [main.cpp](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/One-dimensional%20homogeneous%20heat%20equation/main.cpp)
-
-The solution of the problem is presented, the program is launched through the console. 
+* [main.cpp](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/One-dimensional%20homogeneous%20heat%20equation/main.cpp) - solution of the problem is presented, the program is launched through the console. 
 
 #### To compile use: 
 ```sh
@@ -18,14 +16,12 @@ The solution of the problem is presented, the program is launched through the co
 ``` 
 #### For the **executive file**: 
 ```sh
-~$ mpiexec -np "processes_number" ./exec "N value"
+~$ mpiexec -np "processes_number" ./exec "N_value"
 ``` 
 When removing comments, the program outputs the exact solution, the solution in a sequential way and the solution by parallelization. Comments out the conclusions of the results of a sequential calculation and the complex output of the results of a parallel calculation (line #179). This is done for more accurate time counting. In this form, the file should be run to get data of speed up the work time, using script.sh. 
 
 
-* [script.sh](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/One-dimensional%20homogeneous%20heat%20equation/script.sh)
-
-Bash script for repeatedly running the program for 1-8 processes, for N = 2000, 10000, 50000.
+* [script.sh](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/One-dimensional%20homogeneous%20heat%20equation/script.sh) - **bash** script for repeatedly running the program for 1-8 processes, for N = 2000, 10000, 50000. Collects data into a file for_graph.txt.
 #### Command to get acceleration data: 
 ```sh
 ~$ bash script.sh
