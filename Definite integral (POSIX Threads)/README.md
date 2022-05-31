@@ -1,6 +1,6 @@
 # Definite integral (POSIX Threads)
 
-Calculation of a definite integral $$\Large \displaystyle \iint\limits_\Omega xy\ dxdy,$$
+* Calculation of a definite integral $$\Large \displaystyle \iint\limits_\Omega xy\ dxdy,$$
 
 $$\text{where}\ \Omega = 
  \begin{cases}
@@ -8,7 +8,11 @@ $$\text{where}\ \Omega =
    0 \leq y \leq sin(x)
  \end{cases}$$
  
- using the Monte Carlo method. Get parallel and sequential solution and compare the results of work. Perform parallelization using **POSIX Threads**.
+ using the Monte Carlo method. 
+ 
+ * Geting **parallel** and sequential **solution** and comparing the results of work. 
+ 
+ * Performing **parallelization** using **POSIX Threads**.
  
  # Files 
  
