@@ -6,7 +6,7 @@ Calculation of a definite integral $$\Large \displaystyle \int\limits_0^1 \frac{
 
 * [main.cpp](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/Definite%20integral/main.cpp)
 
-Here is the code for solving the problem, run through the console. Instructions for the executive file: mpiexec -np %processes_number% %filename%. The program outputs the solution calculated sequentially and by each individual process (in case of parallel operation). Line #89 is necessary for repeated execution of the file when calculating acceleration. In this case, all other conclusions should be commented out. To compare the results file should be run using script.sh. Command: bash script.sh
+Here is the code for solving the problem, run through the console. To **compile**, use: mpiCC %filename%. Instructions for the **executive file**: mpiexec -np %processes_number% %filename%. The program outputs the solution calculated sequentially and by each individual process (in case of parallel operation). Line #89 is necessary for repeated execution of the file when calculating acceleration. In this case, all other conclusions should be commented out. To compare the results file should be run using script.sh. Command: bash script.sh
 
 
 * [script.sh](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/Definite%20integral/script.sh)
