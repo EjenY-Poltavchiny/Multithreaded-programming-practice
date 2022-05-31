@@ -23,7 +23,7 @@ $$\text{where}\ \Omega =
 ```sh
 ~$ gcc main.cpp -lpthread -lm -o exec
 ```
-#### Instructions for the executive file: 
+#### For the executive file: 
 
 ```sh
 ~$ ./exec "processes_number"
