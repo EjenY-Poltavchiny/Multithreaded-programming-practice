@@ -25,3 +25,7 @@ $$\text{where}\ \Omega =
  * [Graphs.ipynb](https://github.com/EjenY-Poltavchiny/Multithreaded-programming-practice/blob/main/Definite%20integral%20(POSIX%20Threads)/Graphs.ipynb)
 
 Python code for plotting acceleration graphs depending on the number of processes for N = $10^9$.
+
+# Author 
+
+Poltavtsev Evgeniy
