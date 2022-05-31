@@ -10,7 +10,7 @@ $$\text{where}\ \Omega =
  
  using the Monte Carlo method. 
  
- * Geting **parallel** and sequential **solution** and comparing the results of work. 
+ * Getting **parallel** and sequential **solution** and comparing results of work. 
  
  * Performing **parallelization** using **POSIX Threads**.
  
